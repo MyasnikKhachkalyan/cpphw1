@@ -13,5 +13,5 @@ int main()
 	cout << "sum is " << sum << endl;
 	return 0;
 }
-//in case of the max num of n can be  32,767. as interval of int is -32.767;32.767
-// case of unsinged int it is 65,535. as interval is 0;65,535
+//for int ->  92680
+//for unsingedint -> 185361
